@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/c0b160eb-44af-4c14-b54d-65d4c0ad1833/console.sql" dialect="MySQL" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/f43f0603-01bf-46d3-8fff-9e2e03a5627c/console.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/src/Customers.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/JoinScript.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/Orders.sql" dialect="GenericSQL" />
+  </component>
+</project>
